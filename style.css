@@ -87,6 +87,8 @@
         border: groove 2px;
     }
     
+    /*having trouble getting high score page to scale correctly at different sizes...will try to fix 
+    when i circle back around*/
     #high-scorePage{
         display: none;
         width: 83vh;
