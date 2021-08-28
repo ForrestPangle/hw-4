@@ -89,7 +89,7 @@
     
     #high-scorePage{
         display: flex;
-        width: 100%;
+        width: 80vh;
         border: solid;
         border-color: rgb(255, 0, 0);
         border-bottom-style: groove;
