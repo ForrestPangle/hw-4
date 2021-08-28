@@ -88,7 +88,7 @@
     }
     
     #high-scorePage{
-        display: flex;
+        display: none;
         width: 83vh;
         border: solid;
         border-color: rgb(255, 0, 0);
