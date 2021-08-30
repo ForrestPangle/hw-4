@@ -87,8 +87,9 @@
         border: groove 2px;
     }
     
-    /*having trouble getting high score page to scale correctly at different sizes...will try to fix 
-    when i circle back around*/
+    /*Having trouble getting high score page to scale correctly at different sizes...will try to fix 
+    when i circle back around. Looks perfect on my macbook screen but my large monitor is having some issues because of
+    the height of the monitor I belive*/
     #high-scorePage{
         display: none;
         width: 83vh;
